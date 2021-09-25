@@ -24,18 +24,18 @@ for applicable conditions.
 Made with [Kicad](https://kicad-pcb.org/)
 
 ## Description
-This is a board helper for programming memory that follow [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).\
+This is a board helper for programming memory module that follow [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).\
 You can find the uc code here : [MM1_Writer_code](https://github.com/JonathSpirit/MM1_Writer_code).
 
 <img src="images/MM1_Writer_3D_TOP.png" alt="MM1_Writer_3D_TOP_image" width="400"/> <img src="images/MM1_Writer_3D_BOT.png" alt="MM1_Writer_3D_BOT_image" width="400"/>
 
-## Status
+## Stats
 
-Version :
-> MM1_Writer revision 1
+![version](https://img.shields.io/badge/version-MM1_Writer_R1-blue)
 
-Status :
-> Tested and working !
+![status](https://img.shields.io/badge/status-tested/stable-green)
 
-Known issues :
-> (Empty)
+![bug](https://img.shields.io/github/issues/JonathSpirit/MM1_Writer/bug)\
+![high_impact](https://img.shields.io/github/issues/JonathSpirit/MM1_Writer/high%20impact)\
+![medium_impact](https://img.shields.io/github/issues/JonathSpirit/MM1_Writer/medium%20impact)\
+![light_impact](https://img.shields.io/github/issues/JonathSpirit/MM1_Writer/light%20impact)
