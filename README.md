@@ -21,7 +21,7 @@ for applicable conditions.
 </tr>
 </table>
 
-Made with [Kicad](https://kicad-pcb.org/)
+Made with [Kicad](https://kicad.org/)
 
 ## Description
 This is a board helper for programming memory module that follow [MM1 standard](https://github.com/JonathSpirit/GComputer_standard).\
